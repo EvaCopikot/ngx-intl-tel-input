@@ -1,21 +1,20 @@
 {
-  "name": "@khazii/ngx-intl-tel-input",
-  "version": "3.3.3",
+  "name": "@raoufalaadin97/ngx-intl-tel-input-ang16.1",
+  "version": "1.0.0",
   "peerDependencies": {
-    "@angular/common": "^16.2.0",
-    "@angular/core": "^16.2.0",
-    "@angular/forms": "^16.2.0",
+    "@angular/common": "^16.1.0",
+    "@angular/core": "^16.1.0",
+    "@angular/forms": "^16.1.0",
     "google-libphonenumber": "^3.2.3",
     "intl-tel-input": "^17.0.13",
     "ngx-bootstrap": "11.0.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Khazii/ngx-intl-tel-input"
+    "url": "git+https://github.com/RaoufAlaadin/ngx-intl-tel-input"
   },
   "author": {
-    "name": "Khazii",
-    "email": "oliverbrennan05@gmail.com"
+    "name": "raouf alaadin"
   },
   "keywords": [
     "angular",
@@ -33,7 +32,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Khazii/ngx-intl-tel-input/issues"
+    "url": "https://github.com/RaoufAlaadin/ngx-intl-tel-input/issues"
   },
   "devDependencies": {
     "@types/google-libphonenumber": "^7.4.17"

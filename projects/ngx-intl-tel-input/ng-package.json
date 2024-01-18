@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/@khazii/ngx-intl-tel-input",
+  "dest": "../../dist/@raoufalaadin97/ngx-intl-tel-input-ang16.1",
   "lib": {
     "entryFile": "src/public_api.ts"
   }
