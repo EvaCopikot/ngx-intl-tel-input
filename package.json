@@ -1,6 +1,6 @@
 {
   "name": "@raoufalaadin97/ngx-intl-tel-input-ang16.1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -17,7 +17,7 @@
     "npm_pack": "npm run copy-files && cd dist/ngx-intl-tel-input && npm pack",
     "package": "npm run build_lib && npm run npm_pack"
   },
-  "private": true,
+
   "dependencies": {
     "@angular/animations": "16.1.4",
     "@angular/common": "16.1.4",
